@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Yslkings.com Reviews
 
-You can use the [editor on GitHub](https://github.com/yslkings/handbags/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Where do we turn to when we are looking for beautiful crafted replica handbags? Yslkings is one of the most complex websites I have seen so far. It manages to blend perfectly its numerous banners, menus and interactive features without looking too over-crowded. You can tell that the whole design is thoroughly planned and organized by true professionals. I usually do not like websites that are stuffed with countless banners and promotional incentives, but this one is so nicely done that I simply cannot find any flaws in its design.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main menu is on the top of the page and it includes four large categories: Handbags, Watches, Shoes and Jewelry. Each one of these four tabs unveils a sub-menu of available brands. For the Bags there is a considerable list of famous names that vary from the trendy Mulberry designs up to the high end and exclusive Hermes purses.  Without a doubt, the merchant has included on his site only the most popular brands in the world. The collection is neither exaggeratedly wide nor poor. It has enough to make you wanna’ start some serious purse shopping.
 
-### Markdown
+As I was saying before, everything is neatly organized including the products. The brands are divided into sub-categories which bear the same name as the original collections. This allows us to find the desired handbags a lot easier and faster.  For example, for Louis Vuitton we can choose from the following collections: Monogram, Damier Ebene, Damier Azur, Epi Leather, Mahina and many others. Additionally, on the left side there is an Advanced Search bar that helps us filter the purses by color, material, gender, shape cut, type, size and price. We basically have all the right tools to find the perfect bag in no time!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are items such as the wallets, phones and Ipads cases that cost less than $100, but the bags usually range between $150 and $500. The price depends very much on the type of fabric, the size and design of the bag. There are some luggage items that cost about $450-$700. These are more expensive because of their considerable sizes, craftsmanship work and hardware details. Here, at Yslkings.com, you will find both affordable products perfect for everyday wear as well as lavishing designs that cost a little bit over the market’s average price, but considering the quality and finesse of these designs it is totally worth it.
 
-```markdown
-Syntax highlighted code block
+Just as everything else ‘till now, the product’s description page is also carefully planned and written. It starts with a unique description of each product and it continues by listing very thoroughly all the details, features, fabrics, logos and hardware particularity. The size, gender and included papers are also mentioned. What I find very interesting and useful is the fact that in the very bottom of the page there is a “Product Questions” section where any website visitors can write a question and it will be answered by the staff.
 
-# Header 1
-## Header 2
-### Header 3
+The accepted payment methods are Western Union, credit card, Bank Wire and Web Money. It seems that every type of payment supported by this company comes with a discount or fee. More precisely, for credit card payments there is a 2.9% processing fee that will be added to the order total, for Web Money there is a 10% discount while for Western Union and Bank Wire there is a 20% discount. I like the fact that it presents all the advantages and disadvantages of each payment option it provides.
 
-- Bulleted
-- List
+As mentioned earlier, the Payment page says that it can process card payments, but it doesn’t inform us which credit card companies are supported.  Only after Checking Out of the Shopping Cart we see that the two available card options are Visa and JCB. Additionally, on the same Payment page the merchant claims to accept WebMony payments, but this options isn’t included in the Order Form under Payment Information. These small errors should be reviewed and corrected as they tend to mislead potential customers.
 
-1. Numbered
-2. List
+Yslkings sends orders only with international express carriers and all packages are assigned a tracking number. This tracking number helps both the customer and the company  trace the package and follow its shipping progress as well as confirm the delivery.  It takes up to 5 days to prepare an order for shipping and the actual delivery takes about 7-15 days. The delivery isn’t free and the costs depend on the delivery country and on the items included in your order. These shipping costs are automatically calculated by the website upon Check Out.
 
-**Bold** and _Italic_ and `Code` text
+If you are not happy with the merchandise then you have the option of contacting Customer Service within 14 days to arrange sending the items back before the first 30 days of receipt are up. You will be entitled to a refund or exchange according to your needs and wishes. Furthermore, the customer can choose the type of method he prefers to be used for issuing the refund, and the available options are: Western Union, Bank Transfer and Credit Card.
 
-[Link](url) and ![Image](src)
-```
+The downside of the return policy is that all returned products are charged a $30 restocking fee and all shipping costs are the customer’s responsibility. I do not find these fees as being fair for the customer especially when the reason for returning an item is not being happy with the quality or a manufacturing defect. The website clearly states that all returns are subject to these fees.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The product pictures are very beautiful, clear and explicit. There are at least ten images for each item and every single one of them shows a very specific and important detail of that bag. Clearly, the photographs are property of Yslkings.com as these are fully covered by the company’s watermark. There is no way of editing them in the hope that maybe one can use them on a different website.
 
-### Jekyll Themes
+The company provides customer service by email, phone and live chat from 8:00- Midnight EST, Monday to Friday. I have contacted the Customer Care department by chat to inquire about the repairs warranty and I was attended by a very polite operator who informed me that they do not do repairs. They replace all the products within the first 6 months. I was pleasantly impressed by both the customer services and by the replacement warranty.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yslkings/handbags/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yslkings.com is in all ways a professional and reliable supplier of replica handbags. Its website is nicely designed and incredibly easy to use, there are numerous payment methods, the shipping and return policies are oriented towards providing customer satisfaction, and last, but not least, its product pictures and customer services are excellent.
